@@ -70,8 +70,7 @@ It then enables the VM system to use more memory, which is required for ELK to r
 Finally, it downloads and launches the docker elk container with the correct port mappings and enables the docker service.
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
-
-(Images/docker_ps_output.png)
+![alt text](https://github.com/rpaley/ELK-Stack-Project/blob/main/Images/docker_ps_output.png "Docker PS output")
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
